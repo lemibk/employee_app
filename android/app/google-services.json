@@ -1,14 +1,14 @@
 {
   "project_info": {
-    "project_number": "34954487470",
-    "firebase_url": "https://flutter-app-8c92c-default-rtdb.firebaseio.com",
-    "project_id": "flutter-app-8c92c",
-    "storage_bucket": "flutter-app-8c92c.appspot.com"
+    "project_number": "210640355720",
+    "firebase_url": "https://employee-80f5d-default-rtdb.firebaseio.com",
+    "project_id": "employee-80f5d",
+    "storage_bucket": "employee-80f5d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:34954487470:android:5f2d1d2070f788678bef3f",
+        "mobilesdk_app_id": "1:210640355720:android:733392c0779a5fd4a37a3d",
         "android_client_info": {
           "package_name": "com.example.employee"
         }
@@ -16,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDtTVCO5o8XqLaoilyLC8cfGGpVNHU-7q0"
+          "current_key": "AIzaSyCAOw3nuPXClttSOY9Kn808DMfBy5I-3Cs"
         }
       ],
       "services": {
@@ -27,7 +27,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:34954487470:android:e8f401c72a3e5e268bef3f",
+        "mobilesdk_app_id": "1:210640355720:android:5bfbc3a805cdf164a37a3d",
         "android_client_info": {
           "package_name": "com.example.employee_app"
         }
@@ -35,7 +35,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDtTVCO5o8XqLaoilyLC8cfGGpVNHU-7q0"
+          "current_key": "AIzaSyCAOw3nuPXClttSOY9Kn808DMfBy5I-3Cs"
         }
       ],
       "services": {
@@ -46,15 +46,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:34954487470:android:0516e7124d458bb68bef3f",
+        "mobilesdk_app_id": "1:210640355720:android:3d139d2d19d004a8a37a3d",
         "android_client_info": {
-          "package_name": "com.example.firebased"
+          "package_name": "com.example.plugins"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDtTVCO5o8XqLaoilyLC8cfGGpVNHU-7q0"
+          "current_key": "AIzaSyCAOw3nuPXClttSOY9Kn808DMfBy5I-3Cs"
         }
       ],
       "services": {
